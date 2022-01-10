@@ -1,4 +1,5 @@
 # XMR_Monitor
+A simple script to see if XMRig and Monerod are running **(only working with TMUX)**
 <pre>
     _,--._.-,
    /\_r-,\_ )
